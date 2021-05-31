@@ -2,7 +2,7 @@
 
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><br/> <br/>
- <img src="https://github.com/ankitrajpr/ankitrajpr/blob/master/typing.gif" alt="Face" width="200" height="200" style="float:left">
+ <img src="https://github.com/ankitrajpr/ankitrajpr/blob/main/typing.gif" alt="Face" width="200" height="200" style="float:left">
   <br>
   <b> Hi it's Ankit here 👋</b>
   <br/><br/>I am Ankit Raj Prasad. I am a Software Developer.

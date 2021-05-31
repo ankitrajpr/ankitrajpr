@@ -34,7 +34,7 @@
 
 - 📫 How to reach me: prasad.ankitarj@gmail.com
 
-- ⚡ Fun fact: Being an Electronics Engineer, Call to Code Journey and later in **love** during my years of Struggle Journey .
+- ⚡ Fun fact: Being an Electronics Engineer, Call to Coding and later in **love** during my years of Struggle to be a Developer in Java .
 
 - 😄 My Portfolio Profile : **In Making**
 </details>

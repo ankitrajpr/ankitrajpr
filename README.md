@@ -5,11 +5,11 @@
  <img src="https://github.com/ankitrajpr/ankitrajpr/blob/main/typing.gif" alt="Face" width="200" height="200" style="float:left">
   <br>
   <b> Hi it's Ankit here 👋</b>
-  <br/><br/>I am Ankit Raj Prasad. I am a Software Developer.
+  <br/><br/>I am Ankit Raj Prasad. I am a Software Developer.<br>
   - 🌱 I’m currently learning **React / Angular**
   - 💬 Working on  **Java, Spring Boot, Microservices with protocols on Design Patterns**
 </p>
-<br>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ankitrajpr&show_icons=true&hide_border=true)
 

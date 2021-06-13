@@ -2,16 +2,22 @@
 
 <p align="center">
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><br/> <br/>
- <img src="https://github.com/ankitrajpr/ankitrajpr/blob/main/typing.gif" alt="Face" width="200" height="200" style="float:left">
+ <p align="center">
+  <img src="developer.gif" height="280dp" width="390dp">
+</p>
   <br>
-  <b> Hi it's Ankit here 👋</b>
+  ### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <br/><br/>I am Ankit Raj Prasad. I am a Software Developer.<br>
  
   - 🌱 I’m currently learning **React / Angular**
  
   - 💬 Working on  **Java, Spring Boot, Microservices with protocols on Design Patterns**
 </p>
+#### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
+<p align="center"><img src="Dev.gif" ></p>
+
+<img src="https://img.icons8.com/color/48/000000/java.png"></img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/ios/48/000000/mysql-logo.png"/>&nbsp;&nbsp;
 
 ![](https://github-readme-stats.vercel.app/api?username=ankitrajpr&show_icons=true&hide_border=true)
 

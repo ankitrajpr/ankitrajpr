@@ -5,9 +5,8 @@
  <p align="center">
   <img src="developer.gif" height="280dp" width="390dp">
 </p>
-*** Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-  <br>
+### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   
   <br/><br/>I am Ankit Raj Prasad. I am a Software Developer.<br>
  
@@ -15,7 +14,8 @@
  
   - 💬 Working on  **Java, Spring Boot, Microservices with protocols on Design Patterns**
 </p>
-<br>
+
+
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
 <p align="center"><img src="Dev.gif" ></p>

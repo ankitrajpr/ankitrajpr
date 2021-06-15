@@ -41,7 +41,7 @@
   
 - 💬 Ask me about any advices if You want..
 
-- 📫 How to reach me: prasad.ankitarj@gmail.com
+- 📫 How to reach me: **[`prasad.ankitarj@gmail.com`](mailto:prasad.ankitarj@gmail.com)**
 
 - ⚡ Fun fact: Being an Electronics Engineer, Call to Coding and later in **love** during my years of Struggle to be a Developer in Java .
 

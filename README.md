@@ -18,7 +18,8 @@
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
-<p align="center"><img src="Dev.gif" ></p>
+<!--<p align="center"><img src="Dev.gif" ></p>-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajpr&layout=compact)]
 
 <img src="https://img.icons8.com/color/48/000000/java.png"></img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/ios/48/000000/mysql-logo.png"/>&nbsp;&nbsp;
 

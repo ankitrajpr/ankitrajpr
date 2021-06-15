@@ -15,6 +15,7 @@
   - 💬 Working on  **Java, Spring Boot, Microservices with protocols on Design Patterns**
 </p>
 
+![](https://komarev.com/ghpvc/?username=ankitrajpr)
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
@@ -23,7 +24,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/java.png"></img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/ios/48/000000/mysql-logo.png"/>&nbsp;&nbsp;
 
-![](https://github-readme-stats.vercel.app/api?username=ankitrajpr&show_icons=true&hide_border=true)
+![]https://github-readme-stats.vercel.app/api?username=ankitrajpr&count_private=true&show_icons=true&theme=highcontrast
 
 <br>
 <details>
